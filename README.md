@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋, I'm Vishwa Kachhadiya
+</h1>
+
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Vishwa+Kachhadiya;AI+Researcher;M.Sc.+Computer+Science+(AI)+%40+Universit%C3%A9+de+Montr%C3%A9al;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%7C+Data+Science+%7C+Gen+AI;Building+AI+for+Aerospace+%26+Cyber+Security)](https://git.io/typing-svg)
+</p>
 
 <!--
 **vishwa-kachhadiya/vishwa-kachhadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
