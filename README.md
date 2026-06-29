@@ -36,16 +36,12 @@
 # 🏆 Publications
 
 - 📄 **Demodulate Synthetic Videos Using Deep Learning Models**
-  - IEEE INDIACom 2025
 
 - 📄 **Enhancing Semantic Coherence in Gujarati Topic Models by Eliminating Poor Quality Topics**
-  - Book Chapter
 
 - 📄 **CNN-Based Unsupervised Anomaly Detection for Aero Engine Controller Data**
-  - Submitted to IEEE SPACE 2026
 
 - 📄 **Machine Learning Based Applications Including NLP and Chatbots**
-  - CRC Press Book Chapter
 
 ---
 
