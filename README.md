@@ -113,15 +113,6 @@
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishwa-kachhadiya&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -130,7 +121,7 @@
 </a>
 
 <a href="mailto:vishwa.kachhadiyaa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
